@@ -1,0 +1,6 @@
+{
+  "name": "Creator Collaboration Form",
+  "description": "A premium collaboration portal for brands, creators, and businesses to submit partnership and sponsorship requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
